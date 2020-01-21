@@ -50,12 +50,7 @@ public class Hotline {
                 System.out.println("Yes, I made it!!!");
             }
         }
-        System.out.println("First lesson with git!!!!");
-        System.out.println("Second lesson" +
-                " !!!");
-
-        System.out.println("Third commit");
-        System.out.println("fourth branch");
+        System.out.println("Remote Branch");
         
     }
 }
