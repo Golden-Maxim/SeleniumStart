@@ -1,3 +1,4 @@
+import com.sun.xml.internal.bind.v2.runtime.output.SAXOutput;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.http.util.Asserts;
 import org.openqa.selenium.*;
@@ -52,5 +53,7 @@ public class Hotline {
         System.out.println("First lesson with git!!!!");
         System.out.println("Second lesson" +
                 " !!!");
+
+        System.out.println("Third commit");
     }
 }
