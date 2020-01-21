@@ -49,7 +49,6 @@ public class Hotline {
                 System.out.println("Yes, I made it!!!");
             }
         }
-
-
+        System.out.println("First lesson with git!!!!");
     }
 }
